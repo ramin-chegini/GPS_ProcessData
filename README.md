@@ -21,6 +21,8 @@ The project records **Vivado 2025.2** and target device **`xcku035-fbva900-1-c`*
 
 ## GPS module connections
 
+![GY-GPSV3-NEO GPS module schematic showing VCC, RX, TX, and GND connections](docs/images/gps-module-wiring.png)
+
 The supplied schematic image shows a `GY-GPSV3-NEO` module with these connections:
 
 | Module pin | Schematic connection | Relation to this design |
