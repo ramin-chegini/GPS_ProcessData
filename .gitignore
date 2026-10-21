@@ -1,0 +1,14 @@
+# Vivado-generated caches, runs, simulation exports, and local state.
+**/.Xil/
+/Prj/*.cache/
+/Prj/*.gen/
+/Prj/*.hw/
+/Prj/*.ip_user_files/
+/Prj/*.runs/
+/Prj/*.sim/
+/Prj/*.jou
+/Prj/*.log
+/Prj/*.str
+/Prj/*.xpr.zip
+# Extracted contents are regenerated from the tracked core container.
+/IP/UART_FIFO/
